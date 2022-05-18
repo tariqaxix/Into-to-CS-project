@@ -25,3 +25,83 @@ h3 {
 p {
   margin: 10px 0;
 }
+
+
+/* Basic classes */
+.container {
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 20px;
+}
+
+.text-primary {
+  color: #398118;
+}
+
+.lead {
+  font-size: 20px;
+}
+
+.btn {
+  display: inline-block;
+  font-size: 18px;
+  color: #fff;
+  background: #333;
+  padding: 13px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-1 {
+  display: inline-block;
+  font-size: 18px;
+  color: #fff;
+  background: #333;
+  padding: 10px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #398118;
+  color: #333;
+}
+
+.btn-1:hover {
+  background: #398118;
+  color: #333;
+}
+
+.btn-light {
+  background: #f4f4f4;
+  color: #333;
+}
+
+.bg-dark {
+  background: #333;
+  color: #fff;
+}
+
+.bg-blue {
+  background: #d1e7f1;
+  color: #333;
+}
+
+.bg-light {
+  background: #e7f4d3;
+  color: #333;
+}
+
+.bg-primary {
+  background: #ccd7bc;
+  color: #333;
+}
+
+.clr {
+  clear: both;
+}
+
+.l-heading {
+  font-size: 40px;
+}
