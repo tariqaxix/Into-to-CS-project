@@ -155,3 +155,27 @@ p {
   background: #444;
   color: #20b73e;
 }
+
+
+/* Showcase */
+#showcase {
+  background: url("../img/showcase_new.jpg") no-repeat center center/cover;
+  height: 600px;
+}
+
+#showcase .showcase-content {
+  color: #fff;
+  text-align: center;
+  padding-top: 170px;
+}
+
+#showcase .showcase-content h1 {
+  font-size: 60px;
+  line-height: 1.2em;
+}
+
+#showcase .showcase-content p {
+  padding-bottom: 20px;
+  line-height: 1.7em;
+}
+
