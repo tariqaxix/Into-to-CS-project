@@ -300,3 +300,30 @@ p {
   margin-right: 20px;
   border-radius: 50%;
 }
+/* School form */
+
+#school-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#school-info .info-right img {
+  display: block;
+  margin: auto;
+  width: 70%;
+  border-radius: 50%;
+}
+
+#school-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+
+#school-info .info-left img {
+  display: block;
+  margin: auto;
+  width: 70%;
+  border-radius: 50%;
+}
