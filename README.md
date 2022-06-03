@@ -1,4 +1,4 @@
-# A-new-project
+# School_website
 
 In this project we are going to build a simple website for our previous school.
 
